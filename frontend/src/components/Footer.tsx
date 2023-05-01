@@ -151,7 +151,7 @@ export default function Footer() {
 
           <p className="text-center sm:text-right" aria-label="copyright">
             <span className="font-bold">The Clothing Loop</span>
-            &nbsp;&copy;&nbsp;2022
+            &nbsp;&copy;&nbsp;2023
           </p>
         </div>
       </div>
